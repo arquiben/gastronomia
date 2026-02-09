@@ -1,0 +1,7 @@
+{
+  "name": "Mestre Gourmet AI",
+  "description": "Um assistente de culinária inteligente que transforma qualquer ingrediente em uma experiência gastronômica passo a passo, com receitas personalizadas e guias interativos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
